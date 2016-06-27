@@ -17,7 +17,7 @@
 * [第十四章 - 拯救生命](chapter14.md)
 * [第十五章 - 建構協同作業型和學習型的團隊](chapter15.md)
 * [第十六章 - 更好的實踐](chapter16.md)
-* [第十七章 - TRW軟體生產率專案回憶錄](chapter17.md)
+* [第十七章 - TRW 軟體生產率專案回憶錄](chapter17.md)
 * [第十八章 - 建造太空船](chapter18.md)
 * [第十九章 - 成功的需求](chapter19.md)
 * [第二十章 - 在 Google 的開發工作](chapter20.md)
