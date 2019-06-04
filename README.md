@@ -9,3 +9,5 @@
 也因為這本書實在太重要了，所以我花了一點時間整理每章的摘要，分享給還沒看過的朋友。也歡迎大家在 [GitHub](https://github.com/kewang/digest-beautiful-teams) 上面發 issue 討論。
 
 這是測試的內容
+
+這是另一行測試的內容
